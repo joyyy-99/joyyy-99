@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Joy</h1>
-<h3 align="left">I'm an Android developer passionate about cybersecurity.</h3>
+<h3 align="left">I'm a junior developer passionate about cybersecurity.</h3>
 
 - 🔭 I’m currently working on **SeedSense** An AI-powered seed knowledge platform that enhances food security and biodiversity by aggregating and summarizing scientific research on indigenous seed varieties. 
 
-- 🌱 I’m currently learning **Django, Cybersecurity Fundamentals**
+- 🌱 I’m currently learning **Django, Cybersecurity Fundamentals and Generative AI**
 
 - 💬 Lets talk about **React, Python, Flask, Laravel, PHP and Kotlin.**
 
